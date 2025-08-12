@@ -1,0 +1,1 @@
+print("\t\t\t\t\t* \n\t\t\t\t* \t\t* \n\t\t\t* \t\t\t\t* \n\t\t* \t\t\t\t\t\t* \n\t* \t\t\t\tHI, \t\t\t\t* \n* \t\t\t\tROYALE TIFFANY LIM \t\t\t\t\t\t\t\t\t\t* \n\t* \t\t\t\t\t\t\t\t* \n\t\t* \t\t\t\t\t\t* \n\t\t\t* \t\t\t\t* \n\t\t\t\t* \t\t* \n\t\t\t\t\t* ")
