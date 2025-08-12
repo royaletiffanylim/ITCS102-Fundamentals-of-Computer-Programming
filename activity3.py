@@ -1,1 +1,0 @@
-print("\t\t\tAng Ganda Ko, \n\t\t\tNo offence")
